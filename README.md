@@ -6,12 +6,12 @@ This is a Python script that uses OpenCV and haarcascade classifiers to detect f
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/smile-detector.git
+1. Clone the repository: git clone https://github.com/lawrencejd1/face-detection-and-smile-recognition
 2. Navigate to the project directory: cd smile-detector
 3. Create a virtual environment: python -m venv env
 4. Activate the virtual environment:
-  - For Windows: env\Scripts\activate
-  - For Mac/Linux: source env/bin/activate
+    - For Windows: env\Scripts\activate
+    - For Mac/Linux: source env/bin/activate
 5. Install the required libraries: pip install -r requirements.txt
 
 
