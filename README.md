@@ -18,8 +18,8 @@ This is a Python script that uses OpenCV and haarcascade classifiers to detect f
 ## Usage
 1. Make sure your webcam is connected and functional
 2. Activate the virtual environment:
-  - For Windows: env\Scripts\activate
-  - For Mac/Linux: source env/bin/activate
+    - For Windows: env\Scripts\activate
+    - For Mac/Linux: source env/bin/activate
 3. Run the script: python smile_detector.py
 4. Smile and see the script's output in the console!
 
