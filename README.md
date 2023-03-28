@@ -4,7 +4,7 @@
 
 This is a Python script that uses OpenCV and haarcascade classifiers to detect faces and smiles in real-time from your webcam. When you smile, the script will print "Smiling" to the console. When you frown, the script will print "Frowning". If you have a neutral expression, the script will print "Neutral".
 
-##Installation
+## Installation
 
 1. Clone the repository: git clone https://github.com/your-username/smile-detector.git
 2. Navigate to the project directory: cd smile-detector
